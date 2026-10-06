@@ -1,8 +1,5 @@
 # 04 — Catálogo de KPIs
 
-Implementación: `scripts/kpis_financieros.py` (`CATALOGO_KPIS`). Definición formal: `config/gold_schema.yml`
-(`parametros_financieros`, `metricas_financieras`, `indice_riesgo_consolidado`).
-Salida: `gold_kpis_financieros` (global) y `gold_kpis_por_segmento`.
 
 ## Estados
 

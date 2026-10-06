@@ -1,11 +1,5 @@
 # 02 — Bitácora semanal (Semana 4 a Semana 12)
 
-Registro de lo que se construyó cada semana según el plan del proyecto: objetivo, entregable,
-archivos, decisiones técnicas y evidencia.
-
-> **Nota sobre los commits:** algunos mensajes de commit usan un número de semana distinto al del
-> plan (por ejemplo, el commit "Semana 6" contiene la ingesta de la Semana 5). Esta bitácora sigue el
-> **plan oficial**; la columna *Commit* indica dónde está el código en el historial de Git.
 
 | Semana | Fechas | Fase | Tema | Entregable | Commit(s) |
 |---|---|---|---|---|---|

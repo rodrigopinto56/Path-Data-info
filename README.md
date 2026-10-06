@@ -14,8 +14,7 @@ Cubre de la **Semana 4** (inicio del trabajo con código) a la **Semana 12** (KP
 | [02 — Bitácora semanal (S4–S12)](02_bitacora_semanal.md) | ¿Qué se construyó cada semana, con qué archivos y por qué? |
 | [03 — Diccionario de datos](03_diccionario_datos.md) | ¿Qué columnas y reglas tiene cada fuente y cada tabla por capa? |
 | [04 — Catálogo de KPIs](04_kpis.md) | ¿Cómo se calcula cada KPI, cuál es su meta y cómo se interpreta? |
-| [05 — Operación y troubleshooting](05_operacion.md) | ¿Cómo levanto, ejecuto y pruebo el proyecto? ¿Qué hago si algo falla? |
-| [06 — Decisiones técnicas y deuda técnica](06_decisiones_y_deuda_tecnica.md) | ¿Por qué se eligió cada tecnología? ¿Qué limitaciones conocidas hay? |
+| [05 — Operación y troubleshooting](05_operacion.md) | ¿Cómo levanto, ejecuto y pruebo el proyecto? |
 
 ## Stack tecnológico
 
